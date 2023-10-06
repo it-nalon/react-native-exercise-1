@@ -17,7 +17,6 @@ Ogni elemento della lista deve mostrare:
 - description (`<Text />`)
 
 Per sviluppare la lista puoi usare [`<FlatList />`](https://reactnative.dev/docs/flatlist).
-```
 
 ## Come consegnare l'esercizio
 
@@ -27,5 +26,8 @@ Per sviluppare la lista puoi usare [`<FlatList />`](https://reactnative.dev/docs
 
 
 ### Esempio Image
+
 ```jsx
 <Image source={{ uri: 'https://reactnative.dev/img/tiny_logo.png' }} style={{ width: 50, height: 50 }} />
+
+```
