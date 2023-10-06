@@ -28,6 +28,8 @@ Per sviluppare la lista puoi usare [`<FlatList />`](https://reactnative.dev/docs
 ### Esempio Image
 
 ```jsx
+import { Image } from 'react-native';
+...
 <Image source={{ uri: 'https://reactnative.dev/img/tiny_logo.png' }} style={{ width: 50, height: 50 }} />
 
 ```
